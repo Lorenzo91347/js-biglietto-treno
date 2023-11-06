@@ -18,3 +18,4 @@ let nAge =parseInt(age);
 // };
 
  alert(basePrice.toFixed(2));
+ cost.innerHTML = basePrice.toFixed(2)
